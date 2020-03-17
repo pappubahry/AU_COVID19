@@ -1,5 +1,5 @@
 # AU_COVID19
-Time series for Australian states, originally from and still cross-checked against covid19data.com.au
+Time series for Australian states, originally from and still cross-checked against https://www.covid19data.com.au/
 
 As of 16 March, relevant state health department links:
 
