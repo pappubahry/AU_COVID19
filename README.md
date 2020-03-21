@@ -1,6 +1,8 @@
 # AU_COVID19
 Time series of confirmed COVID-19 cases for Australian states, originally from and still cross-checked against https://www.covid19data.com.au/
 
+On 21 March, NSW changed from reporting case numbers as of 11am to case numbers as of 8pm the previous evening.
+
 As of 16 March, relevant state health department links:
 
 NSW: https://www.health.nsw.gov.au/Infectious/diseases/Pages/coronavirus.aspx
