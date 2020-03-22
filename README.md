@@ -1,5 +1,5 @@
 # AU_COVID19
-Time series of confirmed COVID-19 cases for Australian states, originally from and still cross-checked against https://www.covid19data.com.au/
+Time series of confirmed COVID-19 cases for Australian states, originally from and still cross-checked against https://www.covid19data.com.au/ When case numbers are reported at differing times of day, there may be differences between my data and that site.  I am trying to use my judgement to make the time series as consistent as possible, but the data is inherently messy and you shouldn't necessarily trust every daily percentage change for every state.
 
 On 21 March, NSW changed from reporting case numbers as of 11am to case numbers as of 8pm the previous evening.
 
