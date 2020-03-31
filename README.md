@@ -3,9 +3,11 @@ Time series of confirmed COVID-19 cases for Australian states, originally from a
 
 On 21 March, NSW changed from reporting case numbers as of 11am to case numbers as of 8pm the previous evening.
 
+The NSW sources figures are extracted from the epidemiological curve figure at https://www.health.nsw.gov.au/Infectious/diseases/Pages/covid-19-latest.aspx My extraction code isn't necessarily precise (the axis ticks may be two pixels tall, for example), and there can be small discrepancies between my totals for each source of infection and the totals reported by NSW Health.  There are much larger discrepancies between the number of cases as shown in the epidemiological curve and the number of confirmed cases in time_series_cases.csv, presumably due to differences in the time of day of the two reports.  Expect the numbers for the last few days to be substantially revised upwards; date from earlier days is also subject to revision.
+
 As of 16 March, relevant state health department links:
 
-NSW: https://www.health.nsw.gov.au/Infectious/diseases/Pages/coronavirus.aspx
+NSW: https://www.health.nsw.gov.au/Infectious/diseases/Pages/covid-19-latest.aspx
 
 Vic: https://www.dhhs.vic.gov.au/coronavirus
 
