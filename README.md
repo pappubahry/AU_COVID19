@@ -7,6 +7,8 @@ The NSW sources figures prior to 9 March are extracted from the epidemiological 
 
 Numbers since 9 March are counted from the CSV file at https://data.nsw.gov.au/data/dataset/nsw-covid-19-cases-by-likely-source-of-infection/resource/2f1ba0f3-8c21-4a86-acaf-444be4401a6d There are much larger discrepancies between the number of cases as shown in the epidemiological curve and the number of confirmed cases in time_series_cases.csv, I think because the date reported in this file (and graph) is the date that the sample was taken, and there can be quite a lag between the sample being taken and it being analysed to a positive result.  Expect the numbers for the last few days to be substantially revised upwards as the backlog of samples is tested; data from earlier days is also subject to revision.
 
+Thanks to [@tetrakazi](https://twitter.com/tetrakazi) for her scraper of the Victorian data, which I have adapted for the sources of infections for that state: https://github.com/theojulienne/covid-19-data-aus/blob/master/scripts.hourly/50-vic.py  I don't know why our time series don't agree.
+
 As of 16 March, relevant state health department links:
 
 NSW: https://www.health.nsw.gov.au/Infectious/diseases/Pages/covid-19-latest.aspx
