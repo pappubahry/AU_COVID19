@@ -9,20 +9,22 @@ Numbers since 9 March are counted from the CSV file at https://data.nsw.gov.au/d
 
 Thanks to [@tetrakazi](https://twitter.com/tetrakazi) for her scraper of the Victorian data, which I have adapted for the sources of infections for that state: https://github.com/theojulienne/covid-19-data-aus/blob/master/scripts.hourly/50-vic.py  I don't know why our time series don't agree.
 
-As of 16 March, relevant state health department links:
+As of 10 April, relevant state health department links:
 
-NSW: https://www.health.nsw.gov.au/Infectious/diseases/Pages/covid-19-latest.aspx
+NSW: [Statistics](https://www.health.nsw.gov.au/Infectious/diseases/Pages/covid-19-latest.aspx), [Source of infections CSV](https://data.nsw.gov.au/data/dataset/nsw-covid-19-cases-by-likely-source-of-infection/resource/2f1ba0f3-8c21-4a86-acaf-444be4401a6d)
 
-Vic: https://www.dhhs.vic.gov.au/coronavirus
+Vic: [Press releases](https://www.dhhs.vic.gov.au/coronavirus) (older data), [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODBmMmE3NWQtZWNlNC00OWRkLTk1NjYtMjM2YTY1MjI2NzdjIiwidCI6ImMwZTA2MDFmLTBmYWMtNDQ5Yy05Yzg4LWExMDRjNGViOWYyOCJ9)
 
-Qld: https://www.qld.gov.au/health/conditions/health-alerts/coronavirus-covid-19/current-status/current-status-and-contact-tracing-alerts
+Qld: [Status page](https://www.qld.gov.au/health/conditions/health-alerts/coronavirus-covid-19/current-status/current-status-and-contact-tracing-alerts)
 
-SA: https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases
+SA: [Press releases](https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases)
 
-WA: https://ww2.health.wa.gov.au/Articles/A_E/Coronavirus
+WA: [Statistics](https://ww2.health.wa.gov.au/Articles/A_E/Coronavirus/COVID19-statistics)
 
-Tas: http://www.health.tas.gov.au/news/2020
+Tas: [Press releases](http://www.health.tas.gov.au/news/2020); recovery figures are announced in press conferences and often tweeted by [Monte Bovill (ABC)](https://twitter.com/MonteBovill) and [Emily Jarvie (Advocate/Examiner)](https://twitter.com/emilyjjarvie).
 
-ACT: https://health.act.gov.au/public-health-alert/updated-information-about-covid-19
+ACT: [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiM2M4MGIxYTUtZjA1Yy00YTA4LTkwNDMtMDM4ZTdkMGZhN2ZiIiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9)
 
-NT: https://securent.nt.gov.au/alerts/coronavirus-covid-19-updates
+NT: [COVID-19 page](https://coronavirus.nt.gov.au/)
+
+The federal government's [PDF infographic](https://www.health.gov.au/resources/publications/coronavirus-covid-19-at-a-glance) has some testing statistics not always released by the state health departments.
