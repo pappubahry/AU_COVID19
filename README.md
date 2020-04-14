@@ -8,7 +8,7 @@ Time series of confirmed COVID-19 cases for Australian states, originally from a
 
 - Numbers since 9 March are counted from the CSV file at https://data.nsw.gov.au/data/dataset/nsw-covid-19-cases-by-likely-source-of-infection/resource/2f1ba0f3-8c21-4a86-acaf-444be4401a6d There are much larger discrepancies between the number of cases as shown in the epidemiological curve and the number of confirmed cases in time_series_cases.csv, I think because the date reported in this file (and graph) is the date that the sample was taken, and there can be quite a lag between the sample being taken and it being analysed to a positive result.  Expect the numbers for the last few days to be substantially revised upwards as the backlog of samples is tested; data from earlier days is also subject to revision.
 
-- On 11 April, many cases previously classified as 'Locally acquired - contact not identified' were reclassified into the new category 'Overseas or interstate'.  On 14 April, these cases were removed from the source CSV file.
+- On 11 April, many cases previously classified as 'Locally acquired - contact not identified' were reclassified into the new category 'Overseas or interstate'.  On 14 April, a separate 'Interstate' category was introduced into the source CSV.
 
 Thanks to [@tetrakazi](https://twitter.com/tetrakazi) for [her scraper](https://github.com/theojulienne/covid-19-data-aus/blob/master/scripts.hourly/50-vic.py) of the Victorian data, which I have adapted for the sources of infections for that state.  I don't know why our time series don't agree.
 
