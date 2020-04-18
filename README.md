@@ -16,7 +16,7 @@ Thanks to [@tetrakazi](https://twitter.com/tetrakazi) for [her scraper](https://
 
 As of 10 April, relevant state health department links:
 
-NSW: [Statistics](https://www.health.nsw.gov.au/Infectious/diseases/Pages/covid-19-latest.aspx), [Source of infections CSV](https://data.nsw.gov.au/data/dataset/nsw-covid-19-cases-by-likely-source-of-infection/resource/2f1ba0f3-8c21-4a86-acaf-444be4401a6d)
+NSW: [Statistics](https://www.health.nsw.gov.au/Infectious/diseases/Pages/covid-19-latest.aspx), [Source of infections CSV](https://data.nsw.gov.au/data/dataset/nsw-covid-19-cases-by-location-and-likely-source-of-infection/resource/2776dbb8-f807-4fb2-b1ed-184a6fc2c8aa)
 
 Vic: [Press releases](https://www.dhhs.vic.gov.au/coronavirus) (older data), [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODBmMmE3NWQtZWNlNC00OWRkLTk1NjYtMjM2YTY1MjI2NzdjIiwidCI6ImMwZTA2MDFmLTBmYWMtNDQ5Yy05Yzg4LWExMDRjNGViOWYyOCJ9)
 
