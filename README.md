@@ -22,7 +22,7 @@ Vic: [Press releases](https://www.dhhs.vic.gov.au/coronavirus) (older data), [Da
 
 Qld: [Status page](https://www.qld.gov.au/health/conditions/health-alerts/coronavirus-covid-19/current-status/current-status-and-contact-tracing-alerts)
 
-SA: [Press releases](https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases)
+SA: [Press releases](https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases), [Dashboard](https://www.covid-19.sa.gov.au/home/dashboard)
 
 WA: [Statistics](https://ww2.health.wa.gov.au/Articles/A_E/Coronavirus/COVID19-statistics)
 
