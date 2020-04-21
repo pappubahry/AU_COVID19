@@ -14,6 +14,8 @@ Time series of confirmed COVID-19 cases for Australian states, originally from a
 
 Thanks to [@tetrakazi](https://twitter.com/tetrakazi) for [her scraper](https://github.com/theojulienne/covid-19-data-aus/blob/master/scripts.hourly/50-vic.py) of the Victorian data, which I have adapted for the sources of infections for that state.  I don't know why our time series don't agree.
 
+Prior to 21 April, a bug in my parsing scripts meant that there were occasional errors in time_series_vic_sources.csv and time_series_act_sources.csv.  From 21 April, the total numbers of reported cases should tally correctly with time_series_cases.csv.
+
 As of 10 April, relevant state health department links:
 
 NSW: [Statistics](https://www.health.nsw.gov.au/Infectious/diseases/Pages/covid-19-latest.aspx), [Source of infections CSV](https://data.nsw.gov.au/data/dataset/nsw-covid-19-cases-by-location-and-likely-source-of-infection/resource/2776dbb8-f807-4fb2-b1ed-184a6fc2c8aa)
