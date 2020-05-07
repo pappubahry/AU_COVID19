@@ -20,15 +20,15 @@ As of 23 April, relevant state health department links:
 
 NSW: [Statistics](https://www.health.nsw.gov.au/Infectious/diseases/Pages/covid-19-latest.aspx), [Source of infections CSV](https://data.nsw.gov.au/data/dataset/nsw-covid-19-cases-by-location-and-likely-source-of-infection/resource/2776dbb8-f807-4fb2-b1ed-184a6fc2c8aa)
 
-Vic: [Press releases](https://www.dhhs.vic.gov.au/coronavirus) (older data), [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODBmMmE3NWQtZWNlNC00OWRkLTk1NjYtMjM2YTY1MjI2NzdjIiwidCI6ImMwZTA2MDFmLTBmYWMtNDQ5Yy05Yzg4LWExMDRjNGViOWYyOCJ9)
+Vic: [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODBmMmE3NWQtZWNlNC00OWRkLTk1NjYtMjM2YTY1MjI2NzdjIiwidCI6ImMwZTA2MDFmLTBmYWMtNDQ5Yy05Yzg4LWExMDRjNGViOWYyOCJ9)
 
 Qld: [Statistics](https://www.qld.gov.au/health/conditions/health-alerts/coronavirus-covid-19/current-status/statistics)
 
-SA: [Press releases](https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases), [Dashboard](https://www.covid-19.sa.gov.au/home/dashboard)
+SA: [Dashboard](https://www.covid-19.sa.gov.au/home/dashboard)
 
-WA: [Statistics](https://ww2.health.wa.gov.au/Articles/A_E/Coronavirus/COVID19-statistics)
+WA: [Dashboard](https://experience.arcgis.com/experience/359bca83a1264e3fb8d3b6f0a028d768)
 
-Tas: [Press releases](http://www.health.tas.gov.au/news/2020); recovery figures are announced in press conferences and often tweeted by [Monte Bovill (ABC)](https://twitter.com/MonteBovill) and [Emily Jarvie (Advocate/Examiner)](https://twitter.com/emilyjjarvie).
+Tas: [Statistics](https://coronavirus.tas.gov.au/facts/cases-and-testing-updates); my daily updates follow the evening case announcements, usually tweeted by [Monte Bovill (ABC)](https://twitter.com/MonteBovill), [Emily Jarvie (Advocate/Examiner)](https://twitter.com/emilyjjarvie), and others.
 
 ACT: [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiM2M4MGIxYTUtZjA1Yy00YTA4LTkwNDMtMDM4ZTdkMGZhN2ZiIiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9)
 
