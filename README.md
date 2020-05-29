@@ -16,9 +16,14 @@ Thanks to [@tetrakazi](https://twitter.com/tetrakazi) for [her scraper](https://
 
 Prior to 21 April, a bug in my parsing scripts meant that there were occasional errors in time_series_vic_sources.csv and time_series_act_sources.csv.  From 21 April, the total numbers of reported cases should tally correctly with time_series_cases.csv.
 
+In time_series_tests.csv:
+- WA's figures are persons tested until 30 April; from 1 May they are tests performed.
+- NSW's figures are persons tested until 25 May; from 26 May they are tests performed.
+- Other states are (I believe) all tests performed.
+
 As of 23 April, relevant state health department links:
 
-NSW: [Statistics](https://www.health.nsw.gov.au/Infectious/diseases/Pages/covid-19-latest.aspx), [Source of infections CSV](https://data.nsw.gov.au/data/dataset/nsw-covid-19-cases-by-location-and-likely-source-of-infection/resource/2776dbb8-f807-4fb2-b1ed-184a6fc2c8aa)
+NSW: [COVID-19 page](https://www.nsw.gov.au/covid-19), [Source of infections CSV](https://data.nsw.gov.au/data/dataset/nsw-covid-19-cases-by-location-and-likely-source-of-infection/resource/2776dbb8-f807-4fb2-b1ed-184a6fc2c8aa)
 
 Vic: [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODBmMmE3NWQtZWNlNC00OWRkLTk1NjYtMjM2YTY1MjI2NzdjIiwidCI6ImMwZTA2MDFmLTBmYWMtNDQ5Yy05Yzg4LWExMDRjNGViOWYyOCJ9)
 
