@@ -20,6 +20,7 @@ In time_series_tests.csv:
 - WA's figures are persons tested until 30 April; from 1 May they are tests performed.
 - NSW's figures are persons tested until 25 May; from 26 May they are tests performed.
 - Other states are (I believe) all tests performed.
+- On 6 June, Victoria's number fell by about 12,000 after removing duplicated data.
 
 As of 23 April, relevant state health department links:
 
