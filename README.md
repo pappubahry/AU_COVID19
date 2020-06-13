@@ -34,7 +34,7 @@ SA: [Dashboard](https://www.covid-19.sa.gov.au/home/dashboard)
 
 WA: [Dashboard](https://experience.arcgis.com/experience/359bca83a1264e3fb8d3b6f0a028d768)
 
-Tas: [Statistics](https://coronavirus.tas.gov.au/facts/cases-and-testing-updates); my daily updates follow the evening case announcements, usually tweeted by [Monte Bovill (ABC)](https://twitter.com/MonteBovill), [Emily Jarvie (Advocate/Examiner)](https://twitter.com/emilyjjarvie), and others.
+Tas: [Statistics](https://coronavirus.tas.gov.au/facts/cases-and-testing-updates); my daily updates used to follow the (discontinued as of 12 June) evening case announcements, usually tweeted by [Monte Bovill (ABC)](https://twitter.com/MonteBovill), [Emily Jarvie (Advocate/Examiner)](https://twitter.com/emilyjjarvie), and others.
 
 ACT: [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9)
 
