@@ -2,7 +2,7 @@
 Time series of confirmed COVID-19 cases for Australian states, originally from and still cross-checked against [covid19data.com.au](https://www.covid19data.com.au/), compiled primarily by Juliette O'Brien.  When case numbers are reported at differing times of day, there may be differences between my data and that site.  I am trying to use my judgement to make the time series as consistent as possible, but the data is inherently messy and you shouldn't necessarily trust every daily percentage change for every state.
 
 ## Notes on NSW
-- On 21 March, NSW changed from reporting case numbers as of 11am to case numbers as of 8pm the previous evening.
+- On 3 July, NSW reported 189 historical cases from cthe Ruby Princess to the federal government, which now appear in NSW's totals published by the federal Department of Health, but not by NSW Health (the cases &ndash; all crew members &ndash; were diagnosed and managed on the ship).  My numbers follow the NSW Health website, so exclude these cases.
 
 - The NSW sources of infection are from [Data.NSW's CSV file](https://data.nsw.gov.au/data/dataset/nsw-covid-19-cases-by-location-and-likely-source-of-infection/resource/2776dbb8-f807-4fb2-b1ed-184a6fc2c8aa), which now contains the full case dataset, up to several days ago ("Publication of some data in this dataset is being delayed because the risk of gaining information about an individual in the dataset increases as the number of cases decreases").  The following bullet points are no longer relevant unless you're trying to piece together the history of time_series_nsw_sources.csv. **Update 4 June** On 3 June, the dates in the CSV file for all or most cases were changed. I believe that previously, the date was the date of test sample, and now I don't know, but it might now be date of test analysis or something related.
 
@@ -11,6 +11,8 @@ Time series of confirmed COVID-19 cases for Australian states, originally from a
 - ~~Numbers since 9 March are counted from the CSV file [at Data.NSW](https://data.nsw.gov.au/data/dataset/nsw-covid-19-cases-by-likely-source-of-infection/resource/2f1ba0f3-8c21-4a86-acaf-444be4401a6d) There are much larger discrepancies between the number of cases as shown in the epidemiological curve and the number of confirmed cases in time_series_cases.csv, I think because the date reported in this file (and graph) is the date that the sample was taken, and there can be quite a lag between the sample being taken and it being analysed to a positive result.  Expect the numbers for the last few days to be substantially revised upwards as the backlog of samples is tested; data from earlier days is also subject to revision.~~
 
 - ~~On 11 April, many cases previously classified as 'Locally acquired - contact not identified' were reclassified into the new category 'Overseas or interstate'.  On 14 April, a separate 'Interstate' category was introduced into the source CSV; this standalone category doesn't exist in the graphs, so my data does not show any interstate infections prior to 9 March, even though some may be recorded as such internally at NSW Health.~~
+
+- On 21 March, NSW changed from reporting case numbers as of 11am to case numbers as of 8pm the previous evening.
 
 Thanks to [@tetrakazi](https://twitter.com/tetrakazi) for [her scraper](https://github.com/theojulienne/covid-19-data-aus/blob/master/scripts.hourly/50-vic.py) of the Victorian data, which I have adapted for the sources of infections for that state.  I don't know why our time series don't agree.
 
