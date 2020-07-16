@@ -18,6 +18,8 @@ Thanks to [@tetrakazi](https://twitter.com/tetrakazi) for [her scraper](https://
 
 Prior to 21 April, a bug in my parsing scripts meant that there were occasional errors in time_series_vic_sources.csv and time_series_act_sources.csv.  From 21 April, the total numbers of reported cases should tally correctly with time_series_cases.csv.
 
+time_series_wa_sources.csv presents cumulative totals with the date supposedly being "optimal date of onset", but sometimes the numbers go down, which I don't understand.  Some cases recorded as local contact are, according to media releases, of people in hotel quarantine.
+
 In time_series_tests.csv:
 - WA's figures are persons tested until 30 April; from 1 May they are tests performed.
 - NSW's figures are persons tested until 25 May; from 26 May they are tests performed.
