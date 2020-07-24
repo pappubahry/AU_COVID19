@@ -45,4 +45,4 @@ ACT: [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4
 
 NT: [COVID-19 page](https://coronavirus.nt.gov.au/)
 
-The federal government's [PDF infographic](https://www.health.gov.au/resources/publications/coronavirus-covid-19-at-a-glance) has some testing statistics not always released by the state health departments.
+The federal government's [PDF infographic](https://www.health.gov.au/resources/collections/coronavirus-covid-19-at-a-glance-infographic-collection) has some testing statistics not always released by the state health departments.
