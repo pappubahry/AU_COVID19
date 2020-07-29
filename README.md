@@ -26,6 +26,7 @@ In time_series_tests.csv:
 - Other states are (I believe) all tests performed.
 - On 6 June, Victoria's number fell by about 12,000 after removing duplicated data.
 - Qld added about 38,500 tests from a private provider on 22 June.
+- SA added tests from a private provider on 29 July.
 
 As of 23 April, relevant state health department links:
 
