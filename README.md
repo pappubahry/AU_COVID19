@@ -20,6 +20,8 @@ Prior to 21 April, a bug in my parsing scripts meant that there were occasional 
 
 time_series_wa_sources.csv presents cumulative totals with the date supposedly being "optimal date of onset", but sometimes the numbers go down, which I don't understand.  Some cases recorded as local contact are, according to media releases, of people in hotel quarantine.
 
+WA counted historical cases identified through serology testing in its case count until 1 August.  My numbers follow the WA dashboard, so 26 of these historical cases were removed from the tally on that date.
+
 In time_series_tests.csv:
 - WA's figures are persons tested until 30 April; from 1 May they are tests performed.
 - NSW's figures are persons tested until 25 May; from 26 May they are tests performed.
