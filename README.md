@@ -34,7 +34,7 @@ As of 23 April, relevant state health department links:
 
 NSW: [COVID-19 page](https://www.nsw.gov.au/covid-19), [Source of infections CSV](https://data.nsw.gov.au/data/dataset/nsw-covid-19-cases-by-location-and-likely-source-of-infection/resource/2776dbb8-f807-4fb2-b1ed-184a6fc2c8aa)
 
-Vic: [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODBmMmE3NWQtZWNlNC00OWRkLTk1NjYtMjM2YTY1MjI2NzdjIiwidCI6ImMwZTA2MDFmLTBmYWMtNDQ5Yy05Yzg4LWExMDRjNGViOWYyOCJ9)
+Vic: [Dashboard](https://www.dhhs.vic.gov.au/victorian-coronavirus-covid-19-data)
 
 Qld: [Statistics](https://www.qld.gov.au/health/conditions/health-alerts/coronavirus-covid-19/current-status/statistics)
 
@@ -48,4 +48,4 @@ ACT: [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4
 
 NT: [COVID-19 page](https://coronavirus.nt.gov.au/)
 
-The federal government's [PDF infographic](https://www.health.gov.au/resources/collections/coronavirus-covid-19-at-a-glance-infographic-collection) has some testing statistics not always released by the state health departments.
+The federal government's [statistics page](https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers) has some testing statistics not always released by the state health departments.
