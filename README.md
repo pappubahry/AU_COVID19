@@ -22,6 +22,8 @@ time_series_wa_sources.csv presents cumulative totals with the date supposedly b
 
 WA counted historical cases identified through serology testing in its case count until 1 August.  My numbers follow the WA dashboard, so 26 of these historical cases were removed from the tally on that date.
 
+As of 2021-05-21, the ACT dashboard has five cases without a source of infection; based on the federal dashboard numbers, these appear to be interstate-acquired, and are now classified in time_series_act_sources.csv as such.
+
 In time_series_tests.csv:
 - WA's figures are persons tested until 30 April; from 1 May they are tests performed.
 - NSW's figures are persons tested until 25 May; from 26 May they are tests performed.
