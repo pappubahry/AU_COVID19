@@ -24,6 +24,8 @@ WA counted historical cases identified through serology testing in its case coun
 
 As of 2021-05-21, the ACT dashboard has five cases without a source of infection; based on the federal dashboard numbers, these appear to be interstate-acquired, and are now classified in time_series_act_sources.csv as such.
 
+On 2021-08-21, the ACT changed its reporting time cutoff from 9am to 8pm; the case total for this day reflects an 11-hour period.
+
 In time_series_tests.csv:
 - WA's figures are persons tested until 30 April; from 1 May they are tests performed.
 - NSW's figures are persons tested until 25 May; from 26 May they are tests performed.
