@@ -1,6 +1,8 @@
 # AU_COVID19
 Time series of confirmed COVID-19 cases for Australian states, originally from and still cross-checked against [covid19data.com.au](https://www.covid19data.com.au/), compiled primarily by Juliette O'Brien.  When case numbers are reported at differing times of day, there may be differences between my data and that site.  I am trying to use my judgement to make the time series as consistent as possible, but the data is inherently messy and you shouldn't necessarily trust every daily percentage change for every state.
 
+(Note added 2022-01-08: Victoria has started reporting probable cases from rapid tests.  The sources of infection CSV file provided by Victoria only considers cases identified through PCR tests, and the federal government statistics also only consider PCR tests.  To make my life easier, at least for now I am separating out the rapid-test cases into their own file, time_series_new_cases_rat.csv.  This should also mean somewhat more continuity in the (PCR-)test positivity rate, which would otherwise be inflated by the rapid-test cases, negative results for which are not reported.)
+
 ## Notes on NSW
 - On 3 July, NSW reported 189 historical cases from cthe Ruby Princess to the federal government, which now appear in NSW's totals published by the federal Department of Health, but not by NSW Health (the cases &ndash; all crew members &ndash; were diagnosed and managed on the ship).  My numbers follow the NSW Health website, so exclude these cases.
 
